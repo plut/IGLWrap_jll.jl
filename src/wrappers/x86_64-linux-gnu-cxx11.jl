@@ -12,7 +12,7 @@ function __init__()
     JLLWrappers.@init_library_product(
         libiglwrap,
         "lib/libiglwrap.so",
-        RTLD_LAZY | RTLD_DEEPBIND,
+        RTLD_NOW | RTLD_LOCAL,
     )
 
     JLLWrappers.@generate_init_footer()
