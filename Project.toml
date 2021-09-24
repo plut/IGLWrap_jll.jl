@@ -15,4 +15,4 @@ boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.0"
-boost_jll = "v1.71"
+boost_jll = "~1.71"
