@@ -1,20 +1,20 @@
 [[IGLWrap]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f19d9d267947b8d113fe342f396541c863ace32e"
+git-tree-sha1 = "a6832e084f2e5a7916c11d85215f0a18bf0ca19c"
 libc = "glibc"
 os = "linux"
 
     [[IGLWrap.download]]
-    sha256 = "747ea2321b33cf62b3483245441284e18506c458c546a24fc812d995787b0bb6"
-    url = "https://github.com/plut/IGLWrap_jll.jl/releases/download/IGLWrap-v0.1.0+0/IGLWrap.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "cb92ec948af51915c17405fc06c71941bf3d9b87ddf8e574500a9816e9a3bbf3"
+    url = "https://github.com/plut/IGLWrap_jll.jl/releases/download/IGLWrap-v0.1.0+1/IGLWrap.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[IGLWrap]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0392778bb0494ce6242cba787d59f368a01f9192"
+git-tree-sha1 = "f46b6e8b18a620d15338e78b1e3f70a37d7507e9"
 libc = "glibc"
 os = "linux"
 
     [[IGLWrap.download]]
-    sha256 = "818a14b9b45d273e0fb6fe6b159cdb59140454d31118e96a0648ea36183859dc"
-    url = "https://github.com/plut/IGLWrap_jll.jl/releases/download/IGLWrap-v0.1.0+0/IGLWrap.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "0d34ea5a9bbb326c3bc2634ef7f5df23b84926cf1f3cc49b47a0cac3500507b3"
+    url = "https://github.com/plut/IGLWrap_jll.jl/releases/download/IGLWrap-v0.1.0+1/IGLWrap.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
